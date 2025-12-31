@@ -1,4 +1,4 @@
-# Project Title: Fitness Trainer App / Chat System (or your project name)
+# Project Title:Realtime Chat Application
 
 ## Author
 *Name*: NUR ANIS MAISARAH BINTI RAZIAN
