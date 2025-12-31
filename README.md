@@ -1,3 +1,13 @@
+# Project Title: Fitness Trainer App / Chat System (or your project name)
+
+## Author
+*Name*: NUR ANIS MAISARAH BINTI RAZIAN
+*Student ID:* 2024296654  
+*Group:* CDCS270 3B  
+*Lecturer:* SIR MUHAMMAD ATIF BIN RAMLAN 
+
+## Project Background
+This project is designed to provide a real-time chat and profile management system using Supabase. The system allows users to create and manage their profiles securely, with row-level security ensuring that users can only access and update their own data. Additionally, the project includes a real-time chat feature that allows users to communicate effectively within the application.
 <!-- ## Database Table Schema -->
 ## users table
 
